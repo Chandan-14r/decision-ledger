@@ -1,0 +1,4 @@
+.filters { margin-bottom: 8px; align-items: center; }
+.reset { margin-left: auto; border: 0; background: transparent; color: #747a72; cursor: pointer; font: 700 10px Manrope, sans-serif; text-decoration: underline; text-underline-offset: 3px; }
+.notice { min-height: 16px; margin: 0 0 9px; color: #607b34; font-size: 11px; font-weight: 700; }
+@media (max-width: 760px) { .reset { margin-left: 0; } }
